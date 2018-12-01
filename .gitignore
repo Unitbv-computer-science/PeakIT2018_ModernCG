@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ModernCG/.vs/ModernCG/v15
+/ModernCG/Debug
+/ModernCG/Ex1 - Variabile uniforme/Debug
+/ModernCG/Ex2 - Proiectii si indexarea primitivelor/Debug
+/ModernCG/Ex3 - Camera interactiva/Debug
